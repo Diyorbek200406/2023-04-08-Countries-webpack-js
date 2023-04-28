@@ -14,7 +14,7 @@
   --nurito-sans: "Nunito Sans", "Arial", sans-serif;
 }
 
-/* GLOBAL STYLES start */
+/* GLOBAL STYLES */
 *,
 *::after,
 *::before {
@@ -594,3 +594,4 @@ body {
 /* LITTLE PHONE */
 @media only screen and (max-width: 375px) {
 }
+
